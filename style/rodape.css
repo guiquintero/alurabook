@@ -1,0 +1,49 @@
+/***************RODAPE******************/
+.rodape-titulo{
+    padding: 1em 0;
+    color: black;
+}
+
+.rodape-list{
+    display: none;
+}
+
+
+@media screen and (min-width:1024px){
+    .rodape{
+        display: flex;
+        justify-content: space-between;
+        padding: 2em;
+    }
+    .rodape-list{
+        display: inline-block;
+        padding: 1.5em 0;
+    }
+    .rodape-titulo{
+        font-size: 24px;
+        font-weight: 400;
+    }
+
+    .rodape-titulo-lista{
+        color: #858585;
+        font-size: 14px;
+        font-weight: 400;
+        margin-bottom: 2em;
+    }
+
+    .rodape-item-lista p{
+       color: var(--cinza); 
+       font-size: 14px;
+       padding-left: 1em;
+       
+    }
+
+    .rodape-item-lista{
+        display: flex;
+        align-items: center;
+        margin: 1em 0;
+    }
+    
+
+    
+}
