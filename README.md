@@ -1,4 +1,5 @@
 # alurabook
-Projeto feito durante o curso de responsividade da Alura (mobile-first)
+Project made during Alura's responsiveness course (mobile-first)
 
-Link para melhor visualização: https://guiquintero.github.io/alurabook/
+Link for better view: 
+https://guiquintero.github.io/alurabook/
